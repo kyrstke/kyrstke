@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm **Krystian Jakusik**, an IT student at **Poznan University of Technology**.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrstke&show_icons=true&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![kyrstke's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrstke&count_private=true&show_icons=true&theme=dark&hide_border=true)
+
 <!--
 **kyrstke/kyrstke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
