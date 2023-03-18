@@ -2,7 +2,7 @@
 
 I'm **Krystian Jakusik**, an IT student at **Poznan University of Technology**.
 
-- 🔭 I’m currently working on **Meeting scheduler app** (enhanced when2meet.org clone)
+- 🔭 I’m currently working on **Meeting scheduler app** (enhanced when2meet.com clone)
 - 🌱 I’m currently learning **FastAPI** and **Svelte**
 - 💬 Ask me about **Django REST Framework**, **chess**, **F1**, **squash**, **cycling** and **volleyball**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/krystian-jakusik-464b381b3/), [Facebook](https://www.facebook.com/krystian.jakusik/)
