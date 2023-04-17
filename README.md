@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm **Krystian Jakusik**, Games and Internet Technologies (CS) student at **Poznan University of Technology**. I'm a new member of **[AKAI](https://github.com/akai-org)** - Academic Web Application Research Group!
+I'm **Krystian Jakusik**, currently pursuing Master's Degree in Computer Science (Games and Internet Technologies) at **Poznan University of Technology**.
 
-- 🔭 I’m currently working on **Meeting scheduler app** (inspired by when2meet.com)
-- 🌱 I’m currently learning **FastAPI** and **Svelte**
+- 👯 Member of **[AKAI](https://github.com/akai-org)** - Academic Web Application Research Group
+- 🌱 Learning **FastAPI**, **Java** and **Svelte**
+- 🔭 Working on **Meeting scheduler app** using **Svelte** and **Firebase** (inspired by when2meet.com) and **Guide.me** (**AKAI**) using **FastAPI**
 - 💬 Ask me about **Web apps**, **Django REST Framework**, **chess**, **F1**, **squash**, **cycling** and **volleyball**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/krystian-jakusik-464b381b3/), [Facebook](https://www.facebook.com/krystian.jakusik/)
 
